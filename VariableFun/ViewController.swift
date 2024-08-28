@@ -18,6 +18,7 @@ class ViewController: UIViewController, UITextFieldDelegate {
     var cat: Int? // declaring an optional
     var ant: Double! // declaring a non-optional
     var potato: String = ""
+    var git = true
     
     override func viewDidLoad() {
         super.viewDidLoad()
